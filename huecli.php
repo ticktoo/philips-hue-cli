@@ -244,8 +244,8 @@
 
 		class libhue 	{
 
-			var $bridge = '192.168.0.119';
-			var $key = '74d38424e58186d8a0daded4666356038f3c1d92';
+			var $bridge = 'BRIDGE-IP';
+			var $key = 'YOUR-BRIDGE-USERNAME';
 
 			// Registers your script with your Hue hub
 			function register() {
