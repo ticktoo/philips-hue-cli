@@ -19,7 +19,7 @@ Enter your Bridge IP and Username in lines 247 and 248.
 Example usage
 =============
 
-# Show all lamps and current Status
+Show all lamps and current Status
 ./huecli --list
 
 # Turn all lights on
